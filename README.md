@@ -65,6 +65,6 @@
  </a>
 </p>
 
-<sub><sup>Many thanks to Moien Tajik for making this creative readme file</sup></sub><sub><sup> [@MoeinTajik](http://github.com/MoienTajik) </sup></sub>
+Many thanks to Moien Tajik for making this creative readme file - [@MoeinTajik](http://github.com/MoienTajik)
 
 
