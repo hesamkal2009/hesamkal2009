@@ -46,9 +46,9 @@
 - ⚙ I’m currently working on my customized template which I use in my freelance projects  [Store](https://github.com/hesamkal2009/Store)
 - 🔭 Also I'm looking for a job right now, so feel free to contact me
 - :muscle: I’m specialist in .NET, Architecture and React
-- 👯 I’m looking to collaborate on: .NET & React-Redux projects
-- ⚡ Check my repos specially [Store](https://github.com/hesamkal2009/Store) template
-- 💬 Ask me about: Development :)
+- 👯 I’m looking to collaborate on .NET & React-Redux projects
+- ⚡ Check my repos, especially [Store](https://github.com/hesamkal2009/Store) template
+- 💬 Ask me about Development :)
 
 
 </br>
@@ -65,9 +65,6 @@
  </a>
 </p>
 
-
-<p align="center" font-size="8px">
-  <sub><sup>Many thanks to [Moein Tajik](http://github.com/MoienTajik) for making this creatiev readme file</sup></sub>
-</p>
+<sub><sup>Many thanks to Moien Tajik for making this creative readme file</sup></sub><sub><sup> [@MoeinTajik](http://github.com/MoienTajik) </sup></sub>
 
 
