@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Hesam Kalhor, Welcom! 👋</h1>
+<h1 align="center">Hey, I'm Hesam, Welcom! 👋</h1>
 <p align="center"> 
  <strong>
   You can reach me by  
@@ -43,12 +43,13 @@
 
 <br />
 
-- ⚙ I’m currently working on my customized template which I use in my freelance projects  [Store](https://github.com/hesamkal2009/Store)
-- 🔭 Also I'm looking for a job right now, so feel free to contact me
-- :muscle: I’m specialist in .NET, Architecture and React
+- ⚙ I’m currently working on my React-Redux + .NET Core customized template which I use in my freelance projects  [Store](https://github.com/hesamkal2009/Store)
+- 🔭 Also, I'm looking for a job right now in NL/UK, so feel free to contact me
+- :muscle: I’m specialist in .NET, and React
+- 💙 I love exploring and learning Software Architecture day by day
 - 👯 I’m looking to collaborate on .NET & React-Redux projects
-- ⚡ Check my repos, especially [Store](https://github.com/hesamkal2009/Store) template
-- 💬 Ask me about Development :)
+- ⚡ Check out my repos, especially [Store](https://github.com/hesamkal2009/Store) template
+- 💬 Ask me about Software Development :)
 
 
 </br>
