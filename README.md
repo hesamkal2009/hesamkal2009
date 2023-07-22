@@ -19,7 +19,7 @@
   
 <p align="center"> 
  <strong>
-  Skills Which I Picked Up In My Juorney So Far
+  Skills which I picked up in my journey so far
   </strong>
 </p>
 
@@ -43,12 +43,10 @@
 
 <br />
 
-- ⚙ I’m currently working on my React-Redux + .NET Core customized template which I use in my freelance projects  [Store](https://github.com/hesamkal2009/Store)
-- 🔭 Also, I'm looking for a job right now in NL/UK, so feel free to contact me
-- :muscle: I’m specialist in .NET, and React
+- ⚙ I’m currently working on .NET Core skills
+- :muscle: I’m specialist in .NET, SQL Server, Entity Framework
 - 💙 I love exploring and learning Software Architecture day by day
-- 👯 I’m looking to collaborate on .NET & React-Redux projects
-- ⚡ Check out my repos, especially [Store](https://github.com/hesamkal2009/Store) template
+- 👯 I’m looking to collaborate on .NET projects
 - 💬 Ask me about Software Development :)
 
 
@@ -71,7 +69,3 @@
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" width="194" />
  </a>
 </p>
-
-Many thanks to Moien Tajik for making this creative readme file - [@MoeinTajik](http://github.com/MoienTajik)
-
-
